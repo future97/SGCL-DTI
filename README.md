@@ -35,8 +35,8 @@ We provide an example script to run experiments on our dataset:
 - `Similarity_Matrix_Drugs.txt` 	: Drug similarity scores based on chemical structures of drugs
 - `Similarity_Matrix_Proteins.txt` 	: Protein similarity scores based on primary sequences of proteins
 
-
+<h3>
 If you use our code, please cite our paper at the same time. Thank you!!!
 
 Yang Li, Guanyu Qiao, Xin Gao, Guohua Wang, Supervised graph co-contrastive learning for drug–target interaction prediction, Bioinformatics, Volume 38, Issue 10, 15 May 2022, Pages 2847–2854, https://doi.org/10.1093/bioinformatics/btac164
-
+</h3>
